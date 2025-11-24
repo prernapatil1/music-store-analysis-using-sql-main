@@ -1,0 +1,46 @@
+Tools & Technologies
+
+      Database: SQLite / PostgreSQL / MySQL (works with most SQL engines)
+      Language: SQL
+
+Key Business Questions Answered
+
+    The queries in this project address the following:
+    Employee Analysis
+    Who is the senior-most employee based on job title?
+    Sales Insights
+    Which countries have the most invoices?
+    What are the top 3 invoice totals?
+    Which city generated the highest sales revenue?
+
+Customer Analysis
+
+    Who is the best customer (highest spending)?
+    Find customers who listen to Rock music (with their emails).
+    Determine how much each customer spent on the best-selling artist.
+    Find the top customer by spending in each country.
+
+Artist & Genre Analysis
+
+    Which artists produced the most Rock tracks (Top 10)?
+    Which tracks are longer than the average song length?
+    What is the most popular music genre in each country?
+
+How to Use
+
+    Download the music_store_data_sql_project.sql file.
+    Import it into your SQL editor (e.g., DBeaver, pgAdmin, MySQL Workbench).
+    Run queries against the Music Store Database.
+    Explore insights and adapt queries for your own use.
+
+Example Insights
+
+    The most valuable customers and their spending patterns.
+    The most profitable city for hosting music events.
+    The most popular genre per country, useful for regional marketing.
+
+Future Improvements
+
+    Add ER diagram for the database.
+    Include visualizations (using Power BI / Tableau / Python).
+    Create stored procedures for repeated analysis.
